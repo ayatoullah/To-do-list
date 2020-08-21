@@ -1,0 +1,9 @@
+E:\ASP\FightingTask\FightingTask\bin\FightingTask.dll.config
+E:\ASP\FightingTask\FightingTask\bin\FightingTask.dll
+E:\ASP\FightingTask\FightingTask\bin\FightingTask.pdb
+E:\ASP\FightingTask\FightingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP\FightingTask\FightingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP\FightingTask\FightingTask\obj\Debug\FightingTask.csprojResolveAssemblyReference.cache
+E:\ASP\FightingTask\FightingTask\obj\Debug\FightingTask.csproj.CoreCompileInputs.cache
+E:\ASP\FightingTask\FightingTask\obj\Debug\FightingTask.dll
+E:\ASP\FightingTask\FightingTask\obj\Debug\FightingTask.pdb
